@@ -8,9 +8,11 @@ ScoopyNG is able to detect VMware even if "anti-detection-mechanisms" are deploy
 
 FAQ — Interpretation of results
 Q: How do I know if it's indeed a VMware Virtual Machine?
+
 A: If one or more of the test results state that VMware is detected.
 
 Q: Do all the tests have to state that it's VMware?
+
 A: No, it is sufficient that one test result says that VMware is detected.
 
 
