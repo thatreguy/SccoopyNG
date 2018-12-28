@@ -1,0 +1,38 @@
+####################################################
+::       ScoopyNG - The VMware Detection Tool     ::
+::              Windows version v1.0              ::
+
+[+] Test 1: IDT
+IDT base: 0x82322400
+Result  : Native OS
+
+
+[+] Test 2: LDT
+LDT base: 0xdead0000
+Result  : Native OS
+
+
+[+] Test 3: GDT
+GDT base: 0x82322000
+Result  : Native OS
+
+
+[+] Test 4: STR
+STR base: 0x28000000
+Result  : Native OS
+
+
+[+] Test 5: VMware "get version" command
+Result  : Native OS
+
+
+[+] Test 6: VMware "get memory size" command
+Result  : VMware detected
+
+
+[+] Test 7: VMware emulation mode
+Result  : VMware detected (emulation mode detected)
+
+::                   tk,  2008                    ::
+::               [ www.trapkit.de ]               ::
+####################################################
