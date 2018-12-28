@@ -1,5 +1,5 @@
 # SccoopyNG
-ScoopyNG — The VMware detection tool
+ScoopyNG — The VMware detection tool (http://www.trapkit.de/tools/scoopyng/)
 
 ScoopyNG combines the detection tricks of Scoopy Doo and Jerry as well as some new techniques to determine if a current OS is running inside a VMware Virtual Machine (VM) or on a native system.
 
